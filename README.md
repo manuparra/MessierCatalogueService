@@ -1,2 +1,4 @@
-# MessierCatalogueService
-Repository to manage my research files
+# Messier Catalogue 
+
+Repository to manage Messier objects catalogue
+
